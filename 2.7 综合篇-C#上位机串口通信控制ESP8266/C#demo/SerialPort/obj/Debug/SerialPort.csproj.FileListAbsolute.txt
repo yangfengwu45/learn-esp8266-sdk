@@ -1,0 +1,16 @@
+H:\LearnC#\LearnC-SHARP\2.1 通信篇-串口调试助手\SerialPort\SerialPort\SerialPort\bin\Debug\SerialPort.exe
+H:\LearnC#\LearnC-SHARP\2.1 通信篇-串口调试助手\SerialPort\SerialPort\SerialPort\bin\Debug\SerialPort.pdb
+H:\LearnC#\LearnC-SHARP\2.1 通信篇-串口调试助手\SerialPort\SerialPort\SerialPort\obj\Debug\SerialPort.csprojResolveAssemblyReference.cache
+H:\LearnC#\LearnC-SHARP\2.1 通信篇-串口调试助手\SerialPort\SerialPort\SerialPort\obj\Debug\SerialPort.Form1.resources
+H:\LearnC#\LearnC-SHARP\2.1 通信篇-串口调试助手\SerialPort\SerialPort\SerialPort\obj\Debug\SerialPort.Properties.Resources.resources
+H:\LearnC#\LearnC-SHARP\2.1 通信篇-串口调试助手\SerialPort\SerialPort\SerialPort\obj\Debug\SerialPort.csproj.GenerateResource.Cache
+H:\LearnC#\LearnC-SHARP\2.1 通信篇-串口调试助手\SerialPort\SerialPort\SerialPort\obj\Debug\SerialPort.exe
+H:\LearnC#\LearnC-SHARP\2.1 通信篇-串口调试助手\SerialPort\SerialPort\SerialPort\obj\Debug\SerialPort.pdb
+H:\Learn8266ForSDK\Learn8266ForSDK\2.7 综合篇-C#上位机串口通信控制ESP8266\C#demo\SerialPort\obj\Debug\SerialPort.exe
+H:\Learn8266ForSDK\Learn8266ForSDK\2.7 综合篇-C#上位机串口通信控制ESP8266\C#demo\SerialPort\obj\Debug\SerialPort.pdb
+H:\Learn8266ForSDK\Learn8266ForSDK\2.7 综合篇-C#上位机串口通信控制ESP8266\C#demo\SerialPort\bin\Debug\SerialPort.exe
+H:\Learn8266ForSDK\Learn8266ForSDK\2.7 综合篇-C#上位机串口通信控制ESP8266\C#demo\SerialPort\bin\Debug\SerialPort.pdb
+H:\Learn8266ForSDK\Learn8266ForSDK\2.7 综合篇-C#上位机串口通信控制ESP8266\C#demo\SerialPort\obj\Debug\SerialPort.csprojResolveAssemblyReference.cache
+H:\Learn8266ForSDK\Learn8266ForSDK\2.7 综合篇-C#上位机串口通信控制ESP8266\C#demo\SerialPort\obj\Debug\SerialPort.Form1.resources
+H:\Learn8266ForSDK\Learn8266ForSDK\2.7 综合篇-C#上位机串口通信控制ESP8266\C#demo\SerialPort\obj\Debug\SerialPort.Properties.Resources.resources
+H:\Learn8266ForSDK\Learn8266ForSDK\2.7 综合篇-C#上位机串口通信控制ESP8266\C#demo\SerialPort\obj\Debug\SerialPort.csproj.GenerateResource.Cache
