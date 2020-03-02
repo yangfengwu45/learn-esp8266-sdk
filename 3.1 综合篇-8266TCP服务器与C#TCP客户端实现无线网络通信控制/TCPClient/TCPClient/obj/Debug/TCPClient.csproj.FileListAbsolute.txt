@@ -1,0 +1,16 @@
+H:\LearnC#\LearnC-SHARP\2.2 通信篇-TCP客户端\TCPClient\TCPClient\bin\Debug\TCPClient.exe
+H:\LearnC#\LearnC-SHARP\2.2 通信篇-TCP客户端\TCPClient\TCPClient\bin\Debug\TCPClient.pdb
+H:\LearnC#\LearnC-SHARP\2.2 通信篇-TCP客户端\TCPClient\TCPClient\obj\Debug\TCPClient.csprojResolveAssemblyReference.cache
+H:\LearnC#\LearnC-SHARP\2.2 通信篇-TCP客户端\TCPClient\TCPClient\obj\Debug\TCPClient.Form1.resources
+H:\LearnC#\LearnC-SHARP\2.2 通信篇-TCP客户端\TCPClient\TCPClient\obj\Debug\TCPClient.Properties.Resources.resources
+H:\LearnC#\LearnC-SHARP\2.2 通信篇-TCP客户端\TCPClient\TCPClient\obj\Debug\TCPClient.csproj.GenerateResource.Cache
+H:\LearnC#\LearnC-SHARP\2.2 通信篇-TCP客户端\TCPClient\TCPClient\obj\Debug\TCPClient.exe
+H:\LearnC#\LearnC-SHARP\2.2 通信篇-TCP客户端\TCPClient\TCPClient\obj\Debug\TCPClient.pdb
+H:\Learn8266ForSDK\Learn8266ForSDK\3.1 综合篇-8266TCP服务器与C#TCP客户端实现无线网络通信控制\TCPClient\TCPClient\obj\Debug\TCPClient.exe
+H:\Learn8266ForSDK\Learn8266ForSDK\3.1 综合篇-8266TCP服务器与C#TCP客户端实现无线网络通信控制\TCPClient\TCPClient\obj\Debug\TCPClient.pdb
+H:\Learn8266ForSDK\Learn8266ForSDK\3.1 综合篇-8266TCP服务器与C#TCP客户端实现无线网络通信控制\TCPClient\TCPClient\bin\Debug\TCPClient.exe
+H:\Learn8266ForSDK\Learn8266ForSDK\3.1 综合篇-8266TCP服务器与C#TCP客户端实现无线网络通信控制\TCPClient\TCPClient\bin\Debug\TCPClient.pdb
+H:\Learn8266ForSDK\Learn8266ForSDK\3.1 综合篇-8266TCP服务器与C#TCP客户端实现无线网络通信控制\TCPClient\TCPClient\obj\Debug\TCPClient.csprojResolveAssemblyReference.cache
+H:\Learn8266ForSDK\Learn8266ForSDK\3.1 综合篇-8266TCP服务器与C#TCP客户端实现无线网络通信控制\TCPClient\TCPClient\obj\Debug\TCPClient.Form1.resources
+H:\Learn8266ForSDK\Learn8266ForSDK\3.1 综合篇-8266TCP服务器与C#TCP客户端实现无线网络通信控制\TCPClient\TCPClient\obj\Debug\TCPClient.Properties.Resources.resources
+H:\Learn8266ForSDK\Learn8266ForSDK\3.1 综合篇-8266TCP服务器与C#TCP客户端实现无线网络通信控制\TCPClient\TCPClient\obj\Debug\TCPClient.csproj.GenerateResource.Cache
