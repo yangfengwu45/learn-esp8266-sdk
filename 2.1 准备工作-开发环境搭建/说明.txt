@@ -1,1 +1,4 @@
-https://www.cnblogs.com/yangfengwu/p/11961182.html
+https://www.cnblogs.com/yangfengwu/p/11961182.html  (RTOS)  请先看这一节安装软件
+
+https://www.cnblogs.com/yangfengwu/p/12543832.html  (NONOS) 
+
