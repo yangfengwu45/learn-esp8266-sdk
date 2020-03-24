@@ -1,0 +1,53 @@
+1,远程桌面登录
+
+
+2,administrator
+
+控制台模式启动
+.\bin\emqttd console
+
+.\bin\emqx console
+
+登录
+http://localhost:18083/
+用户名为admin密码为public
+
+如启动成功，会弹出控制台窗口。
+关闭控制台窗口，停止emqttd进程，准备注册Windows服务。
+
+一直运行
+emqttd注册为Windows服务:
+.\bin\emqttd install
+
+.\bin\emqx install
+
+emqttd服务启动:
+.\bin\emqttd start
+
+.\bin\emqx start
+
+emqttd服务停止:
+.\bin\emqttd stop
+
+.\bin\emqx stop
+
+emqttd服务卸载:
+.\bin\emqttd uninstall
+
+.\bin\emqx uninstall
+
+
+
+
+
+修改连接用户名和密码
+
+修改1
+mqtt.allow_anonymous = false   
+
+修改2
+auth.user.1.username = yang
+auth.user.1.password = 11223344
+
+
+
