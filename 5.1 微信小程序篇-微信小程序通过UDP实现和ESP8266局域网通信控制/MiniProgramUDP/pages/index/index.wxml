@@ -1,0 +1,20 @@
+<!--index.wxml-->
+<!--index.wxml-->
+<view class='main'>
+  <view class="temperature_humidity">
+    <view class='temperature_view'>
+      <image class="temperature" src="/images/temperature.png "></image> 
+      <text class='temperaturetext'> ：{{temperaturetext}}℃</text> 
+    </view>
+
+    <view class='humidity_view'>
+      <image class="humidity" src="/images/humidity.png "></image> 
+      <text class='humiditytext'>：{{humiditytext}}%RH</text> 
+    </view>
+  </view>
+  
+  <text class="TextStatus">{{DeviceStatus}}</text>
+
+  <image class="Switch" bindtap="Switch" src='{{SwitchBackgroundImage}}'></image> 
+
+</view>
