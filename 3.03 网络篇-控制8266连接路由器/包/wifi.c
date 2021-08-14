@@ -30,7 +30,7 @@ static void ICACHE_FLASH_ATTR wifi_check_ip(void *arg)
 		if(wifi_station_get_connect_status() == STATION_WRONG_PASSWORD)
 		{
 
-			INFO("STATION_WRONG_PASSWORD\r\n");
+			os_printf("STATION_WRONG_PASSWORD\r\n");
 			wifi_station_connect();
 
 
@@ -38,7 +38,7 @@ static void ICACHE_FLASH_ATTR wifi_check_ip(void *arg)
 		else if(wifi_station_get_connect_status() == STATION_NO_AP_FOUND)
 		{
 
-			INFO("STATION_NO_AP_FOUND\r\n");
+			os_printf("STATION_NO_AP_FOUND\r\n");
 			wifi_station_connect();
 
 
@@ -46,13 +46,13 @@ static void ICACHE_FLASH_ATTR wifi_check_ip(void *arg)
 		else if(wifi_station_get_connect_status() == STATION_CONNECT_FAIL)
 		{
 
-			INFO("STATION_CONNECT_FAIL\r\n");
+			os_printf("STATION_CONNECT_FAIL\r\n");
 			wifi_station_connect();
 
 		}
 		else
 		{
-			INFO("STATION_IDLE\r\n");
+			os_printf("STATION_IDLE\r\n");
 		}
 
 		os_timer_setfn(&WiFiLinker, (os_timer_func_t *)wifi_check_ip, NULL);
@@ -69,7 +69,7 @@ void ICACHE_FLASH_ATTR WIFI_Connect(uint8_t* ssid, uint8_t* pass, WifiCallback c
 {
 	struct station_config stationConf;
 
-	INFO("WIFI_INIT\r\n");
+	os_printf("WIFI_INIT\r\n");
 //	wifi_set_opmode_current(STATION_MODE);
 
 	wifi_set_opmode(STATION_MODE);
